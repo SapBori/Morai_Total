@@ -7,3 +7,9 @@
 5. roslaunch wego gmap + tab
 6. rosrun map_server map_saver
 7. roslaunch wego navi + tab
+
+
+[Mapping](https://drive.google.com/file/d/1l-ZT98mDnqRU7xDT34kRlDjsKk6TW3Nr/view?usp=drive_link)
+---
+[Navigating](https://drive.google.com/file/d/1txlhUMaUrxzmGoWG7h5oqlxCImq2Mic9/view?usp=drive_link)
+---
