@@ -38,7 +38,7 @@
         4. angle_increment = PI/360
         5. range_min : Point Cloud의 최소 감지 거리(m)
         6. range_max : Point Cloud의 최대 감지 거리(m)
-        ** remap from을 잘 수정해야한다.
+        ---remap from을 잘 수정해야한다.---
         ```(xml)
         <remap from="cloud_in" to="lidar3D"/>
         <remap from="scan" to="scan"/>
